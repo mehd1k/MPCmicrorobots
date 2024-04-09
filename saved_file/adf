@@ -1,0 +1,354 @@
+[33mcommit 6b6114e6df6185cc757303359154b046cf94409f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: mehd1k <mker@bu.edu>
+Date:   Tue Mar 19 15:28:38 2024 -0400
+
+    first_version
+
+[33mcommit 24c910494720edb7c1c58b97242ce9f745d318c4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Thu Nov 2 13:53:37 2023 -0400
+
+    Added neural network + plotting functions
+
+[33mcommit 9be9bc3db8f18216a707cb234d183c824a1755aa[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Thu Dec 1 10:32:33 2022 -0500
+
+    Updated code to final version, minor cleanup
+
+[33mcommit 652cd82ab08d835f5ffa93ee2b03eba0b2e6bade[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Tue Nov 22 14:38:15 2022 -0500
+
+    Minor updates
+    
+    - changed model mismatch in MR_Simulator
+    - updated learning module to include Dx and Dy in Learning_module
+    - added some noise to the simulator in main
+
+[33mcommit e5e35dbfef398cd041043be01bad3e525ccb3b77[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Tue Nov 15 19:09:09 2022 -0500
+
+    Updated simulator to include time in the actions list
+
+[33mcommit 323995fee17bfeab63c8587543216cf72f8377ef[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Tue Nov 15 18:09:46 2022 -0500
+
+    Added _2d suffix to files with 2D statespace for merging
+
+[33mcommit 40040323e9553333d36b7a0b702682392c1ffc91[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Tue Nov 15 18:08:32 2022 -0500
+
+    Added file to read Max's experimental data
+
+[33mcommit 4666c4cbb70ec691cb892ac114e52ef3d9bd9e0e[m
+Author: alpylmz <ylmz.alp.e@gmail.com>
+Date:   Tue Nov 15 17:48:28 2022 -0500
+
+    reformatting on environment and simulator classes
+
+[33mcommit 5d3e18a70944eef6fc214e7917e20c623c5270e6[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Tue Nov 8 11:42:32 2022 -0500
+
+    Updated Learning_Module to use data from both control inputs
+
+[33mcommit 26565f4abb36d66b730f647f96e5f1a2e0a57477[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Fri Nov 4 12:41:58 2022 -0400
+
+    Updated learning module and ubot model mismatch
+
+[33mcommit 2e51609970d3978753a2b06a5088080a627f76bb[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Thu Nov 3 14:11:40 2022 -0400
+
+    Updated main file and did visualzations
+
+[33mcommit e442794c371839f85f533cad500f6cf2335aed09[m
+Author: Logan <Logiant@users.noreply.github.com>
+Date:   Wed Nov 2 18:06:52 2022 -0400
+
+    lots of changes
+    
+    updated timescale, learning objective function, what to plot, learning and testing trajectories
+
+[33mcommit a29e459b8843386ebe17ccddc3ba6b991adfc613[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Tue Nov 1 16:07:50 2022 -0400
+
+    integrated alpha predict
+
+[33mcommit 77797a4cff77efcfd933c27dd5a65e0ac2bcf62c[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Tue Nov 1 15:59:44 2022 -0400
+
+    integrated alpha predict
+
+[33mcommit d31e3950648254f95868b6315df455a55daa3fe6[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Mon Oct 31 09:41:48 2022 -0400
+
+    updated reedme
+
+[33mcommit b8e68a0f01daca247b788879db83824d15f9acf6[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Mon Oct 31 09:39:08 2022 -0400
+
+    added Max's MR_experiment file + minor modifications
+
+[33mcommit 7ea7137efffb6419b655f6c80de1bd3423f4579c[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Mon Oct 24 14:24:16 2022 -0400
+
+    added sim learn+test+control
+
+[33mcommit 31743ff7116d82f16a49cc9a6601afd44bd4f65f[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Fri Oct 21 18:14:56 2022 -0400
+
+    minro updates
+
+[33mcommit 26ffb71dedc640e15723a3d40107adc0c7b042d3[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Thu Oct 20 14:27:33 2022 -0400
+
+    added learning file
+
+[33mcommit bbb5a6a8c802b7073c65820cb3dd74b34495a499[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Thu Oct 20 14:06:42 2022 -0400
+
+    added learning file
+
+[33mcommit 08711926dbe352e9d39e19c25ae3c626eb44d116[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Thu Oct 20 14:06:12 2022 -0400
+
+    added learning file
+
+[33mcommit ef00b277936212f1d974434f9e8f93c1aa43f31b[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Tue Sep 20 13:12:20 2022 -0400
+
+    validated model
+
+[33mcommit 0abf9fa493f7589f9734b57d195efb747a9a6cbb[m
+Author: Suhail Alsalehi <33728090+SuhailSama@users.noreply.github.com>
+Date:   Mon Aug 22 10:15:36 2022 -0400
+
+    Update README.md
+
+[33mcommit 09a5a13ef0906b53b436bd08d71086935789ebd0[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Mon Aug 15 10:20:06 2022 -0400
+
+    minor updates to scripts
+
+[33mcommit 9b97886aec5dcbff980e6848cecdc9b1477f7d4a[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Fri Aug 12 09:36:14 2022 -0400
+
+    uploaded working code
+
+[33mcommit c72a497ec8181c9e44b106fd4e7c22943f7e2922[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Wed Aug 3 14:51:47 2022 -0400
+
+    fixed bug in simulator
+
+[33mcommit f046d986b49fbcb51930f519b5cb9c944299e557[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Mon Jul 25 09:37:12 2022 -0400
+
+    fixed bugs in control input
+
+[33mcommit e5e31aeda482c5d4c4df508dfa8ea62f58221ccf[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Mon Jul 11 11:13:00 2022 -0400
+
+    update
+
+[33mcommit 9efbcfebf1931e0b1e613cc23515aaaf45fd579a[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Wed Jul 6 14:56:48 2022 -0400
+
+    fixed bugs, code runs with no errors
+
+[33mcommit f8d8ebb0a0af62cbf088f501d961429212cbd9a6[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Wed Jul 6 10:29:40 2022 -0400
+
+    few modifications
+
+[33mcommit a034eb44fc495ddc6bc255c6ed098c86914ac8ca[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Tue Jul 5 17:46:09 2022 -0400
+
+    few modifications
+
+[33mcommit fea30ccc92210ecf2a051761cbb155f9e0d4c71c[m
+Author: Suhail Alsalehi <suhailalsalehi@gmail.com>
+Date:   Tue Jul 5 15:16:26 2022 -0400
+
+    fixed bugs + added MR sim template
+
+[33mcommit cf2c26a6f7813eeedca85eca64d8e9984dada182[m
+Author: Jonathas Figueiredo <43347385+jmpf2018@users.noreply.github.com>
+Date:   Mon Dec 3 00:07:22 2018 -0200
+
+    readme
+    
+    added paper
+
+[33mcommit 49e5c6e003281f3cf6d98931c675b102e1ea8601[m
+Author: Jonathas Figueiredo <43347385+jmpf2018@users.noreply.github.com>
+Date:   Sun Dec 2 22:00:01 2018 -0200
+
+    add paper
+    
+    Read the full paper if you are interested in our work
+
+[33mcommit 21041ce3624adf744f9e8303273ccb2968fdcd85[m
+Author: Jonathas Figueiredo <43347385+jmpf2018@users.noreply.github.com>
+Date:   Sun Dec 2 21:54:18 2018 -0200
+
+    update readme
+
+[33mcommit eee05e4270765c16e2302ea7505c20801b6cfa39[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Sun Dec 2 21:45:52 2018 -0200
+
+    remove unused files
+
+[33mcommit 6177c5b75f7405a273c4147c3997840cc8d4e063[m
+Merge: e47885e 7ebeecc
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Sun Dec 2 21:38:30 2018 -0200
+
+    Merge branch 'master' of https://github.com/jmpf2018/ShipAI
+
+[33mcommit e47885e57e332a9d4af2bb74d7a4aa9a66a62063[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Sun Dec 2 21:38:13 2018 -0200
+
+    upgrade
+    
+    ship_env: new structure for suporting continous and discrete action in the same file
+    ddpg and dqn : now saving history of learning
+    ship_data: now ploting actions and settling time
+    evaçuate_learning: now you can plot the reward evolution and observable states of a experiment
+    simulator: some modifications to make simulator similar to tpn simulator
+
+[33mcommit 7ebeecccf2b529636160187c7495b8ef1bba863d[m
+Author: jmpf2018 <43347385+jmpf2018@users.noreply.github.com>
+Date:   Thu Nov 15 22:02:27 2018 -0200
+
+    update readme
+
+[33mcommit 5310736b1e96d5c8f2c773b28fb009ebee61ee8d[m
+Author: jmpf2018 <43347385+jmpf2018@users.noreply.github.com>
+Date:   Thu Nov 15 22:01:10 2018 -0200
+
+    update readme
+
+[33mcommit aa879880b1a3ed629b883dcf58b1cbd40b444e28[m
+Author: jmpf2018 <43347385+jmpf2018@users.noreply.github.com>
+Date:   Thu Nov 15 21:52:50 2018 -0200
+
+    Update README.md
+
+[33mcommit fe380cdcd469212257e513299705ed0f7f420a50[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Mon Nov 5 21:46:30 2018 -0200
+
+    update ship_data and ddpg
+
+[33mcommit c4efa90cba44c7ab80e58370b2697a98d9a9f803[m
+Merge: adcdf70 84a8c2e
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Wed Oct 31 19:40:14 2018 -0300
+
+    Merge branch 'master' of https://github.com/jmpf2018/ShipAI
+
+[33mcommit adcdf706ddfb8600490a3ccc52653c8d472efb82[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Wed Oct 31 19:39:58 2018 -0300
+
+    new model
+
+[33mcommit 84a8c2e5f4785482b3048230a23c70a4dcbed8c9[m
+Author:  <rodrigo@DESKTOP-411E30D.localdomain>
+Date:   Sat Oct 27 19:42:53 2018 +0000
+
+    Added approximate Q learning agent
+
+[33mcommit c4a3d68313aedcd08e9c19e29cdbfc480d0e1218[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Fri Oct 26 15:07:09 2018 -0300
+
+    updade simulator
+    
+    simulator: now there are a new complex model working
+    ddpg: try to find a ddpg solution for navigation
+
+[33mcommit 12406d9d831af5ef9d12d9c1a9267a9df05f11a8[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Thu Oct 25 00:13:35 2018 -0300
+
+    upgrade
+    
+    viewer: Now the ship run in a loop in the screan
+    ship_env_discrete: new version of reward that converges.
+    dqn_keras: ready to test the results from the tests.
+    new file .h5f ready to control the ship
+
+[33mcommit b4138c34adcfc97d0d3bc62ca07cf1d4927addf7[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Tue Oct 23 14:36:27 2018 -0300
+
+    viewer and space
+    
+    viewer: New features  rudder angle more visible
+    ship_env: new space states for rotational speed, new limits for ship navigation
+
+[33mcommit 458e35645e4df50f49d3087e0b652d10fdcbf0b1[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Tue Oct 23 13:59:04 2018 -0300
+
+    new features
+    
+    simulator: Best propulsor model
+    ship_env_discrete: new env with discrete rudder control
+    dqn_keras: implementation of  a simple q-netwrok to solve the RL problem
+
+[33mcommit 38166b961bb2452927c48f39000c9ab405d6da2b[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Sat Oct 20 20:53:36 2018 -0300
+
+    dqn: new version
+    
+    New version for use dqn
+
+[33mcommit 111a474deccc44919aac1bb3bd529e7dc760ac94[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Sat Oct 20 20:30:51 2018 -0300
+
+    ship_env : Plot boundary
+    
+    Water channel added
+
+[33mcommit 3dec337e620f705e3bc00a6e7e8f5ff8ff5b5d2a[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Sat Oct 20 20:15:09 2018 -0300
+
+    update files
+
+[33mcommit ff65d1d2d24ae033fe06c1cb7d7d0bf23080d29e[m
+Author: Jonathas <marcelocards2018@gmail.com>
+Date:   Sat Oct 20 19:47:02 2018 -0300
+
+    first commit
