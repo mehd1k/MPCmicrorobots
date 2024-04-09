@@ -98,7 +98,7 @@ class LearningModule:
         speed = np.sqrt( (vx - self.Dx )**2 + (vy - self.Dy)**2 )
 
         #alpha  = 1k means the controller is off, delete those frames
-        todel = np.argwhere(alpha >= 500)
+        todel = np.argwhere(alpha >= 5)
         if len(todel) > 0:
             todel = int(todel[0])
             alpha = alpha[0:todel-1]
